@@ -1,0 +1,6 @@
+Credentials cache: API:5C66F858-DAA2-438A-A3D2-310488B4A2C4
+        Principal: frcarval@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  2 20:52:38 2021  Aug  3 06:52:38 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  2 20:52:40 2021  Aug  3 06:52:38 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
